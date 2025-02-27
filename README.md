@@ -11,8 +11,8 @@ Projeto final do curso **Origamid** usando **JavaScript**,<br>
 Curso foca no desenvolvimento Front-End e uso do JavaScript, como arrow functions, promises, manipulação do DOM e requisições com Fetch API e boas práticas de código,
 além de aprofundar meu entendimento sobre a linguagem e suas aplicações no mercado atual.
 
-Outro repositório utilizando também: 
-JavaScrip: https://github.com/GabrielAlvesGit/Curso-Origamid-JavaScript-Completo-ES6id<br>
+Outro repositório utilizando também:<br> 
+JavaScrip: https://github.com/GabrielAlvesGit/Curso-Origamid-JavaScript-Completo-ES6id, <br> 
 Slide: https://github.com/GabrielAlvesGit/Slide
 
 
