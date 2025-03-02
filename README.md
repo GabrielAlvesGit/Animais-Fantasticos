@@ -1,7 +1,7 @@
 ## Projeto Animais Fantasticos
 
 <h1 align="center">
-  <a href="https://gabrielalvesgit.github.io/animais-fantasticos/">website view <img src="https://github.com/user-attachments/assets/96e60795-2bd3-4524-b2ee-5a5112860221" alt="Imagem/Icone seta a direita blue" style="width: 20px; height: 20px; margin-left: 5px;"></a>
+  <a href="https://gabrielalvesgit.github.io/Animais-Fantasticos/">website view <img src="https://github.com/user-attachments/assets/96e60795-2bd3-4524-b2ee-5a5112860221" alt="Imagem/Icone seta a direita blue" style="width: 20px; height: 20px; margin-left: 5px;"></a>
 </h1>
 
 ## 📖 Descrição
