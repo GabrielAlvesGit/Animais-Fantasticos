@@ -13,8 +13,8 @@ além de aprofundar meu entendimento sobre a linguagem e suas aplicações no me
 
 Outro repositório utilizando também:<br> 
 JavaScrip: https://github.com/GabrielAlvesGit/Curso-Origamid-JavaScript-Completo-ES6id, <br> 
-Slide: https://github.com/GabrielAlvesGit/Slide
-
+Slide: https://github.com/GabrielAlvesGit/Slide <br>
+Animais Fantásticos: https://github.com/GabrielAlvesGit/Animais-Fantasticos <br>
 
 
 ## 💻 Layout
